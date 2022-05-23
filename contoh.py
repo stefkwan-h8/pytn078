@@ -1,0 +1,1 @@
+print("selamat malam, selamat belajar!")
